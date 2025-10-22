@@ -45,7 +45,6 @@ main {
   max-width: 800px;
   margin: 1rem auto;
   padding: 16px;
-  
 }
 
 .button-container {
